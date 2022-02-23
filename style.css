@@ -1,0 +1,38 @@
+body
+{
+    background:lightblue;
+    font-family: 'The Nautigal', cursive;
+}
+.header_div
+{
+    background: white;
+    color:black;
+}
+.header_div p
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button
+{
+    font-family: sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+.copy_right_footer
+{
+    position:fixed;
+    color:black;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background:lightgreen;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px violet;
+} 
